@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**prax93/prax93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* * *
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Prashanth Sritharan
+===================
+
+#### DevOps Engineer
+
+###### [Github](https://github.com/prax93)
+
+###### [LinkedIn](https://www.linkedin.com/in/prashanth-sritharan-03011993)
+
+* * *
+
+**Programming Skills**
+
+*   Java
+*   Python
+*   NodeJS
+*   C#
+
+**Frontend Skills**
+
+*   VueJS
+*   Angular
+*   Vanilla JS
+
+**Dev Ops Skills**
+
+*   Linux Administration
+*   Docker
+*   Kubernetes / Openshift
+*   Tekton / Jenkins / Github Actions
+
+* * *
+
+**Education**
+
+*   2024 - 2025 CAS Software Development bfh
+*   2018 - 2021 HF Informatik gibb
