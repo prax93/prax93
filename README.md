@@ -11,7 +11,7 @@ Hi👋, I am Prax93, a Full-Stack Developer based in Berne
 
 * * *
 
-**About Me**
+About Me
 👩🏻‍💻  Full-Stack Developer
 🍿  Cinephilia
 📚  Book enthusiast
