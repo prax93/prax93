@@ -7,6 +7,6 @@ Hi👋, I am Prax93, a Full-Stack Developer based in Berne 🇨🇭
 ###### [LinkedIn](https://www.linkedin.com/in/prashanth-sritharan-03011993)
 
 ### About Me
-👩🏻‍💻  Full-Stack Developer<br>
+👨🏽‍💻  Full-Stack Developer<br>
 🍿  Cinephilia<br>
 📚  Book enthusiast<br>
