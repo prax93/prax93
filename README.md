@@ -11,5 +11,5 @@ Hi👋, I am Prax93, a Full-Stack Developer based in Bern Switzerland 🇨🇭
 
 ### About Me
 👨🏽‍💻  Full-Stack Developer<br>
-🍿  Cinephilia<br>
+🍿  Cinephile<br>
 📚  Book enthusiast<br>
